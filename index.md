@@ -26,3 +26,10 @@ This visualization shows Professor Schueller's location on New Year's Eve and Ne
 <iframe src="my_plot2.html" width="100%" height="600" style="border:none;">
   <p>Your browser does not support iframes.</p>
 </iframe>
+
+## Above and Beyond - embedded Homework 2 live visualization
+This visualization uses an [ICPSR](https://www.icpsr.umich.edu/web/ICPSR/studies/33242) dataset on HIV stigma in adults over 50 in the PNW from 2003-2005. I examined the correlation between reported stigma experienced and reported depression symptoms.
+<iframe src="my_plot2.html" width="100%" height="600" style="border:none;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
