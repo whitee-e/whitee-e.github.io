@@ -1,6 +1,8 @@
 # Ellie W. Portfolio
 A webpage to share my analysis and visualizations.
 
+## [CS/MATH-215 Final Project - Analysis of Global Deaths from Dementia 2000-2021](https://whitee-e.github.io/cs-math215finalproject/)
+
 ## Data Sources and Project Ideas
 1. [Analyzing students' mental health](https://www.kaggle.com/datasets/aminasalamat/mental-health-of-students-dataset) <br>
 Using the Mental Health of Students dataset on Kaggle. This dataset contains self-reported anxiety and depression symptoms, as well as each student’s field of study, course year, and other demographics. I’d be interested in comparing gender and stress levels, or how GPA relates to mental health. (Do students with high GPAs have better or worse mental health?)
