@@ -2,6 +2,7 @@
 A webpage to share my analysis and visualizations.
 
 ## [CS/MATH-215 Final Project - Analysis of Global Deaths from Dementia 2000-2021](https://whitee-e.github.io/cs-math215finalproject/)
+This project analyzes global distribution of dementia mortality rates between 2000 and 2021. It also examines the correlation between GDP and dementia mortality rate in each country.
 
 ## Data Sources and Project Ideas
 1. [Analyzing students' mental health](https://www.kaggle.com/datasets/aminasalamat/mental-health-of-students-dataset) <br>
